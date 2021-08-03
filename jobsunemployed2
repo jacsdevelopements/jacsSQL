@@ -1,0 +1,2 @@
+INSERT INTO `jobs` (`name`, `label`, `whitelisted`, `SecondaryJob`) VALUES
+('unemployed2', 'Chômeur', 0, '1');
