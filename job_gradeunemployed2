@@ -1,2 +1,2 @@
 INSERT INTO `job_grades` (`id`, `job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES
-(2, 'unemployed2', 0, 'unemployed2', 'Chômeur', 500, '', ''),
+(2, 'unemployed2', 0, 'unemployed2', 'Chômeur', 500, '', '');
